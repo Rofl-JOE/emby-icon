@@ -26,6 +26,14 @@
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Terminus/square.png"
 		},
 		{
+			"name": "Odyssey-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Odyssey/round.png"
+		},
+		{
+			"name": "Odyssey-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Odyssey/square.png"
+		},
+		{
 			"name": "jms-round",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/jms/round.png"
 		},
@@ -42,20 +50,12 @@
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/bgk/square.png"
 		},
 		{
-			"name": "Flareix-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Flareix/round.png"
+			"name": "pinyun-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/pinyun/round.png"
 		},
 		{
-			"name": "Flareix-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Flareix/square.png"
-		},
-		{
-			"name": "Odyssey-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Odyssey/round.png"
-		},
-		{
-			"name": "Odyssey-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Odyssey/square.png"
+			"name": "pinyun-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/pinyun/square.png"
 		},
 		{
 			"name": "Cc-round",
@@ -130,20 +130,28 @@
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/CharonTV/square.png"
 		},
 		{
-			"name": "pinyun-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/pinyun/round.png"
-		},
-		{
-			"name": "pinyun-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/pinyun/square.png"
-		},
-		{
 			"name": "Plus-round",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Plus/round.png"
 		},
 		{
 			"name": "Plus-square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Plus/square.png"
+		},
+		{
+			"name": "BlueSea-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/BlueSea/round.png"
+		},
+		{
+			"name": "BlueSea-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/BlueSea/square.png"
+		},
+		{
+			"name": "Misty-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Misty/round.png"
+		},
+		{
+			"name": "Misty-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Misty/square.png"
 		},
 		{
 			"name": "Ikoumi-round",
@@ -168,6 +176,14 @@
 		{
 			"name": "shuiboliangshan-square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/shuiboliangshan/square.png"
+		},
+		{
+			"name": "Flareix-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Flareix/round.png"
+		},
+		{
+			"name": "Flareix-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Flareix/square.png"
 		},
 		{
 			"name": "Dv-round",
@@ -208,22 +224,6 @@
 		{
 			"name": "Foxcoo-square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Foxcoo/square.png"
-		},
-		{
-			"name": "BlueSea-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/BlueSea/round.png"
-		},
-		{
-			"name": "BlueSea-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/BlueSea/square.png"
-		},
-		{
-			"name": "Misty-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Misty/round.png"
-		},
-		{
-			"name": "Misty-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Misty/square.png"
 		},
 		{
 			"name": "Ac-round",
