@@ -1,6 +1,6 @@
 {
-	"name": "CSN Group Emby Icons",
-	"description": "By 1.0.11",
+	"name": "CSN Icons",
+	"description": "By 1.0.12",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -9,6 +9,14 @@
 		{
 			"name": "emby-square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/emby/square.png"
+		},
+		{
+			"name": "GoogleDrive-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/GoogleDrive/round.png"
+		},
+		{
+			"name": "GoogleDrive-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/GoogleDrive/square.png"
 		},
 		{
 			"name": "csn-round",
