@@ -18,20 +18,20 @@
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/CSN/square.png"
 		},
 		{
+			"name": "MisakaF-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/MisakaF/round.png"
+		},
+		{
+			"name": "MisakaF-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/MisakaF/square.png"
+		},
+		{
 			"name": "Terminus-round",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Terminus/round.png"
 		},
 		{
 			"name": "Terminus-square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Terminus/square.png"
-		},
-		{
-			"name": "Plus-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Plus/round.png"
-		},
-		{
-			"name": "Plus-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Plus/square.png"
 		},
 		{
 			"name": "jms-round",
@@ -90,14 +90,6 @@
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Polo/square.png"
 		},
 		{
-			"name": "MisakaF-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/MisakaF/round.png"
-		},
-		{
-			"name": "MisakaF-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/MisakaF/square.png"
-		},
-		{
 			"name": "zhipianren-round",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/zhipianren/round.png"
 		},
@@ -154,6 +146,14 @@
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Odyssey/square.png"
 		},
 		{
+			"name": "Plus-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Plus/round.png"
+		},
+		{
+			"name": "Plus-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Plus/square.png"
+		},
+		{
 			"name": "Ikoumi-round",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Ikoumi/round.png"
 		},
@@ -185,6 +185,7 @@
 			"name": "Flareix-square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Flareix/square.png"
 		},
+		
 		{
 			"name": "Dv-round",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Dv/round.png"
