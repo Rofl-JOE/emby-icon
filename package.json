@@ -3,12 +3,12 @@
 	"description": "By CSN",
 	"icons": [
 		{
-			"name": "emby-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/emby/round.png"
-		},
-		{
 			"name": "emby-square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/emby/square.png"
+		},
+		{
+			"name": "emby-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/emby/round.png"
 		},
 		{
 			"name": "csn-round",
