@@ -1,6 +1,6 @@
 {
 	"name": "CSN Group Emby Icons",
-	"description": "By 1.0.10",
+	"description": "By 1.0.11",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -17,6 +17,14 @@
 		{
 			"name": "csn-square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/CSN/square.png"
+		},
+		{
+			"name": "csn1-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/CSN/round1.png"
+		},
+		{
+			"name": "csn1-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/CSN/square1.png"
 		},
 		{
 			"name": "MisakaF-round",
@@ -49,14 +57,6 @@
 		{
 			"name": "bgk--square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/bgk/square.png"
-		},
-		{
-			"name": "pinyun-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/pinyun/round.png"
-		},
-		{
-			"name": "pinyun-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/pinyun/square.png"
 		},
 		{
 			"name": "Cc-round",
@@ -131,12 +131,20 @@
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/BlueSea/square.png"
 		},
 		{
-			"name": "Misty-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Misty/round.png"
+			"name": "StudyFun-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/StudyFun/round.png"
 		},
 		{
-			"name": "Misty-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Misty/square.png"
+			"name": "StudyFun-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/StudyFun/square.png"
+		},
+		{
+			"name": "pinyun-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/pinyun/round.png"
+		},
+		{
+			"name": "pinyun-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/pinyun/square.png"
 		},
 		{
 			"name": "Odyssey-round",
@@ -147,47 +155,6 @@
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Odyssey/square.png"
 		},
 		{
-			"name": "Plus-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Plus/round.png"
-		},
-		{
-			"name": "Plus-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Plus/square.png"
-		},
-		{
-			"name": "Ikoumi-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Ikoumi/round.png"
-		},
-		{
-			"name": "Ikoumi-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Ikoumi/square.png"
-		},
-		{
-			"name": "23studio-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/23Studio/round.png"
-		},
-		{
-			"name": "23studio-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/23Studio/square.png"
-		},
-		{
-			"name": "shuiboliangshan-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/shuiboliangshan/round.png"
-		},
-		{
-			"name": "shuiboliangshan-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/shuiboliangshan/square.png"
-		},
-		{
-			"name": "Flareix-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Flareix/round.png"
-		},
-		{
-			"name": "Flareix-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Flareix/square.png"
-		},
-		
-		{
 			"name": "Dv-round",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Dv/round.png"
 		},
@@ -196,52 +163,20 @@
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Dv/square.png"
 		},
 		{
-			"name": "StudyFun-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/StudyFun/round.png"
+			"name": "Misty-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Misty/round.png"
 		},
 		{
-			"name": "StudyFun-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/StudyFun/square.png"
+			"name": "Misty-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Misty/square.png"
 		},
 		{
-			"name": "MJJ-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/MJJ/round.png"
+			"name": "Plus-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Plus/round.png"
 		},
 		{
-			"name": "MJJ-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/MJJ/square.png"
-		},
-		{
-			"name": "HXD-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/HXD/round.png"
-		},
-		{
-			"name": "HXD-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/HXD/square.png"
-		},
-		{
-			"name": "Foxcoo-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Foxcoo/round.png"
-		},
-		{
-			"name": "Foxcoo-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Foxcoo/square.png"
-		},
-		{
-			"name": "Ac-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Ac/round.png"
-		},
-		{
-			"name": "Ac-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Ac/square.png"
-		},
-		{
-			"name": "Nyamedia-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Nyamedia/round.png"
-		},
-		{
-			"name": "Nyamedia-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Nyamedia/square.png"
+			"name": "Plus-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Plus/square.png"
 		},
 		{
 			"name": "PornEmby-round",
@@ -338,6 +273,79 @@
 		{
 			"name": "CatFish-square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/CatFish/square.png"
+		},
+		{
+			"name": "Ikoumi-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Ikoumi/round.png"
+		},
+		{
+			"name": "Ikoumi-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Ikoumi/square.png"
+		},
+		{
+			"name": "23studio-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/23Studio/round.png"
+		},
+		{
+			"name": "23studio-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/23Studio/square.png"
+		},
+		{
+			"name": "shuiboliangshan-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/shuiboliangshan/round.png"
+		},
+		{
+			"name": "shuiboliangshan-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/shuiboliangshan/square.png"
+		},
+		{
+			"name": "Flareix-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Flareix/round.png"
+		},
+		{
+			"name": "Flareix-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Flareix/square.png"
+		},
+		
+		{
+			"name": "MJJ-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/MJJ/round.png"
+		},
+		{
+			"name": "MJJ-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/MJJ/square.png"
+		},
+		{
+			"name": "HXD-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/HXD/round.png"
+		},
+		{
+			"name": "HXD-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/HXD/square.png"
+		},
+		{
+			"name": "Foxcoo-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Foxcoo/round.png"
+		},
+		{
+			"name": "Foxcoo-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Foxcoo/square.png"
+		},
+		{
+			"name": "Ac-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Ac/round.png"
+		},
+		{
+			"name": "Ac-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Ac/square.png"
+		},
+		{
+			"name": "Nyamedia-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Nyamedia/round.png"
+		},
+		{
+			"name": "Nyamedia-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Nyamedia/square.png"
 		},
 		{
 			"name": "hongchen-round",
