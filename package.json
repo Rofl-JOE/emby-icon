@@ -1,7 +1,8 @@
 {
 	"name": "Emby Icons",
 	"description": "By CSN",
-	"icons": [{
+	"icons": [
+		{
 			"name": "emby-round",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/emby/round.png"
 		},
