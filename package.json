@@ -1,6 +1,6 @@
 {
 	"name": "CSN YYDS",
-	"description": "By 1.0.16",
+	"description": "By 1.0.17",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -345,7 +345,7 @@
 		{
 			"name": "shennong-square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/shennong/square.png"
-		}
+		},
 		{
 			"name": "Ac-round",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Ac/round.png"
