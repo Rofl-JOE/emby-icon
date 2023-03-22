@@ -1,6 +1,6 @@
 {
 	"name": "CSN YYDS",
-	"description": "By 1.0.18",
+	"description": "By 1.0.19",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -27,12 +27,12 @@
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/CSN/square.png"
 		},
 		{
-			"name": "csn1-round",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/CSN/round1.png"
+			"name": "cat-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/cat/round.png"
 		},
 		{
-			"name": "csn1-square",
-			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/CSN/square1.png"
+			"name": "cat-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/cat/square.png"
 		},
 		{
 			"name": "MisakaF-round",
