@@ -1,6 +1,6 @@
 {
 	"name": "CSN YYDS",
-	"description": "By 1.0.17",
+	"description": "By 1.0.18",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -457,6 +457,14 @@
 		{
 			"name": "Free-square",
 			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/Free/square.png"
+		},
+		{
+			"name": "GoogleDriveEmby-round",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/GoogleDriveEmby/round.png"
+		},
+		{
+			"name": "GoogleDriveEmby-square",
+			"url": "https://raw.githubusercontent.com/byte170202/emby-icon/main/GoogleDriveEmby/square.png"
 		}
 	]
 }
