@@ -1,6 +1,6 @@
 {
 	"name": "CSN反集邮联盟",
-	"description": "By 1.0.25",
+	"description": "By 1.0.26",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -465,6 +465,14 @@
 		{
 			"name": "GoogleDriveEmby-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/GoogleDriveEmby/square.png"
+		},
+		{
+			"name": "10086-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/10086/round.png"
+		},
+		{
+			"name": "10086-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/10086/square.png"
 		}
 	]
 }
