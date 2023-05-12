@@ -1,6 +1,6 @@
 {
 	"name": "CSN反集邮联盟",
-	"description": "By 1.0.30",
+	"description": "By 1.0.31",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -505,6 +505,14 @@
 		{
 			"name": "des-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/des/square.png"
+		},
+		{
+			"name": "sleep-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/round.png"
+		},
+		{
+			"name": "sleep-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/square.png"
 		}
 	]
 }
