@@ -43,20 +43,20 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/square.png"
 		},
 		{
-			"name": "cat-guang-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/round1.png"
-		},
-		{
-			"name": "cat-guang-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/square1.png"
-		},
-		{
 			"name": "pilipili-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/pilipili/round.png"
 		},
 		{
 			"name": "pilipili-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/pilipili/square.png"
+		},
+		{
+			"name": "cat-guang-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/round1.png"
+		},
+		{
+			"name": "cat-guang-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/square1.png"
 		},
 		{
 			"name": "sleep-round",
