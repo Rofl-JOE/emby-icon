@@ -1,6 +1,6 @@
 {
 	"name": "CSN反集邮联盟",
-	"description": "By v1.0.34",
+	"description": "By v1.0.35",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -28,11 +28,11 @@
 		},
 		{
 			"name": "cat-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xuedinge/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xuedinge/round2.png"
 		},
 		{
 			"name": "cat-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xuedinge/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xuedinge/square2.png"
 		},
 		{
 			"name": "123-round",
