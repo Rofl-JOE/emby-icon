@@ -51,6 +51,14 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/MisakaF/square.png"
 		},
 		{
+			"name": "TreeDiagram-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/TreeDiagram/round.png"
+		},
+		{
+			"name": "TreeDiagram-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/TreeDiagram/square.png"
+		},
+		{
 			"name": "Terminus-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Terminus/round.png"
 		},
@@ -475,12 +483,12 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Free/square.png"
 		},
 		{
-			"name": "GoogleDriveEmby-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/GoogleDriveEmby/round.png"
+			"name": "CaptainZ-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/CaptainZ/round1.png"
 		},
 		{
-			"name": "GoogleDriveEmby-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/GoogleDriveEmby/square.png"
+			"name": "CaptainZ-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/CaptainZ/square1.png"
 		},
 		{
 			"name": "10086-round",
