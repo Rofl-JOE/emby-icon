@@ -521,6 +521,22 @@
 		{
 			"name": "sleep-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/square.png"
+		},
+		{
+			"name": "TeKa-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/TeKa/round.png"
+		},
+		{
+			"name": "TeKa-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/TeKa/square.png"
+		},
+		{
+			"name": "wangzhe-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/wangzhe/round.png"
+		},
+		{
+			"name": "wangzhe-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/wangzhe/square.png"
 		}
 	]
 }
