@@ -1,6 +1,6 @@
 {
 	"name": "CSN反集邮联盟",
-	"description": "By v1.0.37",
+	"description": "By v1.0.38",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -115,14 +115,6 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/bgk/square.png"
 		},
 		{
-			"name": "Cc-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Cc/round.png"
-		},
-		{
-			"name": "Cc-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Cc/square.png"
-		},
-		{
 			"name": "Orange-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Orange/round.png"
 		},
@@ -137,6 +129,14 @@
 		{
 			"name": "Peach-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Peach/square.png"
+		},
+		{
+			"name": "Cc-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Cc/round.png"
+		},
+		{
+			"name": "Cc-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Cc/square.png"
 		},
 		{
 			"name": "Polo-round",
