@@ -1,6 +1,6 @@
 {
 	"name": "CSN反集邮联盟",
-	"description": "By v1.0.35",
+	"description": "By v1.0.36",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -44,11 +44,27 @@
 		},
 		{
 			"name": "cat-guang-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/round1.png"
 		},
 		{
 			"name": "cat-guang-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/square1.png"
+		},
+		{
+			"name": "pilipili-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/pilipili/round.png"
+		},
+		{
+			"name": "pilipili-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/pilipili/square.png"
+		},
+		{
+			"name": "sleep-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/round1.png"
+		},
+		{
+			"name": "sleep-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/square1.png"
 		},
 		{
 			"name": "MisakaF-round",
@@ -521,14 +537,6 @@
 		{
 			"name": "des-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/des/square1.png"
-		},
-		{
-			"name": "sleep-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/round.png"
-		},
-		{
-			"name": "sleep-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/square.png"
 		},
 		{
 			"name": "TeKa-round",
