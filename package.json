@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "By v1.0.41",
+	"description": "v1.0.42",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -49,6 +49,14 @@
 		{
 			"name": "123-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/square.png"
+		},
+		{
+			"name": "yeye-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yeye/round.png"
+		},
+		{
+			"name": "yeye-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yeye/square.png"
 		},
 		{
 			"name": "pilipili-round",
@@ -132,11 +140,11 @@
 		},
 		{
 			"name": "Peach-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Peach/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Peach/round1.png"
 		},
 		{
 			"name": "Peach-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Peach/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Peach/square1.png"
 		},
 		{
 			"name": "Cc-round",
@@ -516,11 +524,11 @@
 		},
 		{
 			"name": "CaptainZ-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/CaptainZ/round1.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/CaptainZ/round2.png"
 		},
 		{
 			"name": "CaptainZ-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/CaptainZ/square1.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/CaptainZ/square2.png"
 		},
 		{
 			"name": "10086-round",
